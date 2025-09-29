@@ -13,4 +13,4 @@ Enabling DoT prevents your Internet Service Provider (ISP) and other third parti
 ## Step-by-Step Instructions
 For the complete, detailed walkthrough and all configuration steps within the pfSense web interface.
 
-[📖Check out my detailed Medium blog](https://medium.com/@uj03/easy-dns-over-tls-dot-setup-for-pfsense-a-step-by-step-privacy-guide-5b4b251c16b8)
+📖[Check out my detailed Medium blog](https://medium.com/@uj03/easy-dns-over-tls-dot-setup-for-pfsense-a-step-by-step-privacy-guide-5b4b251c16b8)
